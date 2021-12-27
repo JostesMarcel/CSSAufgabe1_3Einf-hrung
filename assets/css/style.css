@@ -1,0 +1,15 @@
+header {
+    background-color: grey;
+}
+
+nav > a {
+    color: green; margin: 35px;
+}
+
+section > a {
+    color: darkblue; text-decoration: none;
+}
+
+span {
+    color: orangered;
+}
