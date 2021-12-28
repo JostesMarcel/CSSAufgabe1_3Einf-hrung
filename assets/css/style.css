@@ -2,8 +2,8 @@ header {
     background-color: grey;
 }
 
-nav > a {
-    color: green; margin: 35px;
+ul,a {
+    color: green; list-style: none;
 }
 
 section > a {
